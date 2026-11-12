@@ -31,7 +31,7 @@ goto output
 
 :cim
 REM В новых Windows вместо WMIC используется Get-CimInstance
-for /f "tokens=1,* delims==" %%A in ('powershell.exe -NoProfile -Command "$o=Get-CimInstance Win32_OperatingSystem; $p=Get-CimInstance Win32_Processor; $d=Get-CimInstance Win32_LogicalDisk -Filter \"DeviceID='C:'\"; 'Caption='+$o.Caption; 'Version='+$o.Version; 'TotalVisibleMemorySize='+$o.TotalVisibleMemorySize; 'FreePhysicalMemory='+$o.FreePhysicalMemory; 'cpu='+($p.Name -join ', '); 'Size='+$d.Size; 'FreeSpace='+$d.FreeSpace"') do set "%%A=%%B"
+for /f "tokens=1,* delims==" %%A in ('powershell.exe -NoProfile -Command "$o=Get-CimInstance Win32_OperatingSystem; $p=Get-CimInstance Win32_Processor; $d=Get-CimInstance Win32_LogicalDisk | Where-Object DeviceID -eq 'C:'; 'Caption='+$o.Caption; 'Version='+$o.Version; 'TotalVisibleMemorySize='+$o.TotalVisibleMemorySize; 'FreePhysicalMemory='+$o.FreePhysicalMemory; 'cpu='+($p.Name -join ', '); 'Size='+$d.Size; 'FreeSpace='+$d.FreeSpace"') do set "%%A=%%B"
 
 :output
 setlocal EnableDelayedExpansion
