@@ -12,9 +12,14 @@ if errorlevel 1 (
     exit /b 1
 )
 
-REM Получение сведений об ОС, процессоре и памяти
+REM Получаем данные через CIM и выводим их в UTF-8
+set "Caption="
+for /f "tokens=1,* delims==" %%A in ('powershell.exe -NoProfile -Command "[Console]::OutputEncoding=[System.Text.UTF8Encoding]::new($false); $ErrorActionPreference='Stop'; $o=Get-CimInstance Win32_OperatingSystem; $p=Get-CimInstance Win32_Processor; $d=Get-CimInstance Win32_LogicalDisk -Filter 'DeviceID=''C:'''; 'Caption='+$o.Caption; 'Version='+$o.Version; 'TotalVisibleMemorySize='+$o.TotalVisibleMemorySize; 'FreePhysicalMemory='+$o.FreePhysicalMemory; 'cpu='+($p.Name -join ', '); 'Size='+$d.Size; 'FreeSpace='+$d.FreeSpace" 2^>nul') do set "%%A=%%B"
+if defined Caption goto output
+
+REM Если CIM недоступен, берём данные через WMIC
 where wmic >nul 2>nul
-if errorlevel 1 goto cim
+if errorlevel 1 goto output
 
 for /f "tokens=1,* delims==" %%A in ('wmic os get Caption^,Version^,TotalVisibleMemorySize^,FreePhysicalMemory /value 2^>nul') do (
     for /f "delims=" %%C in ("%%B") do set "%%A=%%C"
@@ -27,11 +32,6 @@ REM Получение размера диска C в байтах
 for /f "tokens=1,* delims==" %%A in ('wmic logicaldisk where "DeviceID='C:'" get Size^,FreeSpace /value 2^>nul') do (
     for /f "delims=" %%C in ("%%B") do set "%%A=%%C"
 )
-goto output
-
-:cim
-REM В новых Windows вместо WMIC используется Get-CimInstance
-for /f "tokens=1,* delims==" %%A in ('powershell.exe -NoProfile -Command "$o=Get-CimInstance Win32_OperatingSystem; $p=Get-CimInstance Win32_Processor; $d=Get-CimInstance Win32_LogicalDisk | Where-Object DeviceID -eq 'C:'; 'Caption='+$o.Caption; 'Version='+$o.Version; 'TotalVisibleMemorySize='+$o.TotalVisibleMemorySize; 'FreePhysicalMemory='+$o.FreePhysicalMemory; 'cpu='+($p.Name -join ', '); 'Size='+$d.Size; 'FreeSpace='+$d.FreeSpace"') do set "%%A=%%B"
 
 :output
 setlocal EnableDelayedExpansion
