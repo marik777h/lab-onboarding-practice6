@@ -1,0 +1,240 @@
+Диагностика компьютера
+Дата: 22.11.2026 15:29:45,32
+----------------------------------------
+Операционная система
+Название: �������� Windows 10 Pro
+Версия: 10.0.19045
+
+Процессор
+AMD Ryzen 5 5600X 6-Core Processor             
+
+Оперативная память
+Всего памяти: 31 ГБ
+Свободно памяти: 9 ГБ
+
+Диск C
+Всего места: 930 ГБ
+Свободно места: 409 ГБ
+
+Установленные программы
+----------------------------------------
+Hiddify
+CLion 2026.2.1
+Clownfish Voice Changer
+Git
+MetaTrader 5
+PostgreSQL 18 
+Microsoft Office профессиональный 2019 - ru-ru
+PyCharm 2025.2.1.1
+Counter-Strike
+OBS Studio
+Burg
+Counter-Strike: Source
+Grand Theft Auto V Legacy
+Geometry Dash
+Counter-Strike:Global Offensive
+Dota 2
+TeamSpeak 3 Client
+WinRAR 7.01 (64-bit)
+Microsoft Word 2024 - en-us
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft .NET AppHost Pack - 6.0.33 (x64_arm64)
+Python 3.13.12 Tcl/Tk Support (64-bit)
+Microsoft .NET AppHost Pack - 6.0.33 (x64_x86)
+Microsoft .NET Runtime - 6.0.33 (x64)
+ENE_AIC_Marvell_HAL
+AndyImagesConfigure
+Python 3.13.12 Test Suite (64-bit)
+Microsoft Windows Desktop Runtime - 8.0.24 (x64)
+Python 3.13.12 Standard Library (64-bit)
+FACEIT Anti-Cheat
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Update Health Tools
+Logi Plugin Service
+Microsoft ASP.NET Core 6.0.33 Targeting Pack (x64)
+ENE_External_Device_HAL
+Python 3.13.12 pip Bootstrap (64-bit)
+Verbatim_SureFireGaming_Product
+Microsoft ASP.NET Core 6.0.33 Shared Framework (x64)
+ENE_EHD_M2_HAL
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Microsoft .NET Toolset 6.0.425 (x64)
+Python 3.13.12 Documentation (64-bit)
+Microsoft .NET Runtime - 10.0.10 (x64)
+Python 3.13.12 Add to Path (64-bit)
+Microsoft .NET 6.0 Templates 6.0.425 (x64)
+Logitech G HUB
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+Bonjour
+ENE_DRAM_RGB_AIO
+Microsoft Windows Desktop Targeting Pack - 6.0.33 (x64)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.50.35719
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)
+Microsoft .NET Host FX Resolver - 6.0.33 (x64)
+Microsoft .NET Host FX Resolver - 8.0.24 (x64)
+Microsoft.NET.Sdk.tvOS.Manifest-6.0.300
+Microsoft .NET AppHost Pack - 6.0.33 (x64_arm)
+Java 8 Update 461 (64-bit)
+Microsoft Windows Desktop Runtime - 9.0.9 (x64)
+Microsoft .NET Host FX Resolver - 9.0.9 (x64)
+Microsoft .NET Runtime - 8.0.24 (x64)
+AndyPreInstall
+Microsoft .NET Host - 9.0.9 (x64)
+HitVPN
+Logi Options+
+Microsoft .NET Host - 10.0.10 (x64)
+Поддержка программ Apple (64 бит)
+Patriot Viper M2 SSD RGB
+Office 16 Click-to-Run Extensibility Component 64-bit Registration
+Microsoft .NET AppHost Pack - 6.0.33 (x64)
+Blender
+ENE_MousePad_HAL
+ENE Video Capture Box HAL
+Microsoft Windows Desktop Runtime - 6.0.33 (x64)
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+Microsoft .NET Targeting Pack - 6.0.33 (x64)
+Microsoft Teams Meeting Add-in for Microsoft Office
+Microsoft .NET Host - 8.0.24 (x64)
+Microsoft .NET Host FX Resolver - 6.0.36 (x64)
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.50.35719
+NVIDIA Графический драйвер 560.94
+NVIDIA GeForce Experience 3.28.0.417
+NVIDIA Optimus Update 39.5.0.0
+Обновления NVIDIA 39.5.0.0
+NVIDIA FrameView SDK 1.3.8513.32290073
+NVIDIA SHIELD Streaming
+NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)
+NVIDIA Install Application
+NVIDIA Backend
+NVIDIA Container
+NVIDIA TelemetryApi helper for NvContainer
+NVIDIA LocalSystem Container
+NVIDIA Message Bus for NvContainer
+NVIDIA NVAPI Monitor plugin for NvContainer
+NVIDIA NetworkService Container
+NVIDIA Session Container
+NVIDIA User Container
+NVIDIA NvModuleTracker
+NVIDIA NodeJS
+NVIDIA Watchdog Plugin for NvContainer
+NVIDIA Telemetry Client
+NVIDIA Virtual Host Controller
+Nvidia Share
+NVIDIA ShadowPlay 3.28.0.417
+NVIDIA Update Core
+NVIDIA Virtual Audio 4.65.0.3
+Update for x64-based Windows Systems (KB5001716)
+Python 3.13.12 Executables (64-bit)
+Microsoft.NET.Sdk.iOS.Manifest-6.0.300
+Python 3.13.12 Core Interpreter (64-bit)
+Microsoft.NET.Sdk.Maui.Manifest-6.0.300
+AndyImagesInstall
+Microsoft .NET Runtime - 6.0.36 (x64)
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+ENE_X_AIC_HAL
+Microsoft.NET.Workload.Emscripten.Manifest (x64)
+Microsoft .NET Host - 6.0.36 (x64)
+Microsoft .NET Host FX Resolver - 10.0.10 (x64)
+Microsoft.NET.Workload.Mono.Toolchain.Manifest
+Python 3.13.12 Development Libraries (64-bit)
+VMware Player
+Node.js
+WD P40 Game Drive
+Microsoft Windows Desktop Runtime - 10.0.10 (x64)
+Microsoft.NET.Sdk.Android.Manifest-6.0.300
+Microsoft.NET.Sdk.macOS.Manifest-6.0.300
+Epic Games Launcher Prerequisites (x64)
+Microsoft .NET Runtime - 9.0.9 (x64)
+Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.300
+Google Chrome
+ImgBurn
+EasyTune
+EasyTuneEngineService
+SIV
+@BIOS
+APP Center
+iTop VPN
+Copilot
+Microsoft Edge
+Среда выполнения Microsoft Edge WebView2 Runtime
+Overwolf
+Roblox Player
+Steam
+Vitrite (remove only)
+Yandex (All Users)
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)
+Patriot Viper M2 SSD RGB
+Microsoft Visual C++ v14 Redistributable (x86) - 14.50.35719
+Epic Games Launcher
+Microsoft ASP.NET Core 6.0.33 - Shared Framework (x64)
+Python Launcher
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+PlanetVPN-2.10.22.62
+ENE_EHD_M2_HAL
+Launcher Prerequisites (x64)
+Java Auto Updater
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.50.35719
+ENE_DRAM_RGB_AIO
+Поддержка программ Apple (32 бит)
+Microsoft Visual C++ 2005 Redistributable
+WD P40 Game Drive
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.50.35719
+EasyTune
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft .NET SDK 6.0.425 (x64)
+Microsoft Windows Desktop Runtime 10.0.10 (x64)
+ENE_AIC_Marvell_HAL
+Microsoft Windows Desktop Runtime - 9.0.9 (x64)
+VMware VIX
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Localization Component
+Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719
+EasyTuneEngineService
+ENE Video Capture Box HAL
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Windows Desktop Runtime - 8.0.24 (x64)
+ENE_External_Device_HAL
+SIV
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Apple Software Update
+Smart Backup (x64)
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+ENE_MousePad_HAL
+ENE_X_AIC_HAL
+@BIOS
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+APP Center
+Verbatim_SureFireGaming_Product
+GService
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+RGB Fusion
+Скачать видео и аудио
+Wave 0.5.9
+Bloxstrap
+OpenCode 1.18.34
+Discord
+FACEIT
+Microsoft OneDrive
+OpenIV
+TeamSpeak Overlay
+Python 3.14.7
+Roblox Player for bassk
+Roblox Studio for bassk
+Volt
+Zoom Workplace
+MSYS2
+Ollama version 0.40.17
+Telegram Desktop
+MSYS2
+Microsoft Visual Studio Code (User)
+MSYS2
+Python 3.13.12 (64-bit)
+
+Отчёт сохранён
