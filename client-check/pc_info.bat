@@ -2,7 +2,7 @@
 chcp 65001 >nul
 setlocal EnableExtensions DisableDelayedExpansion
 REM Практическая работа 8. Диагностика компьютера
-REM Автор: marik777h. Дата: 12.11.2026
+REM Фамилия: Никонов. Дата: 12.11.2026
 
 set "report=%~dp0pc_report.txt"
 type nul >"%report%" 2>nul
