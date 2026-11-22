@@ -1,0 +1,254 @@
+Диагностика компьютера
+Дата: 22.11.2026 17:09:12,56
+Собираю сведения о Windows, процессоре, памяти и диске...
+
+Операционная система
+Название: Майкрософт Windows 10 Pro
+Версия: 10.0.19045
+
+Процессор
+Модель: AMD Ryzen 5 5600X 6-Core Processor             
+
+Оперативная память
+Всего памяти: 31 ГБ
+Свободно памяти: 18 ГБ
+
+Диск C
+Всего места: 930 ГБ
+Свободно места: 409 ГБ
+
+Читаю список программ из реестра...
+Сравниваю список с офисным набором...
+
+Установленные программы
+@BIOS
+AndyImagesConfigure
+AndyImagesInstall
+AndyPreInstall
+APP Center
+Apple Software Update
+Blender
+Bloxstrap
+Bonjour
+Burg
+CLion 2026.2.1
+Clownfish Voice Changer
+Copilot
+Counter-Strike
+Counter-Strike: Source
+Counter-Strike:Global Offensive
+Discord
+Dota 2
+EasyTune
+EasyTuneEngineService
+ENE Video Capture Box HAL
+ENE_AIC_Marvell_HAL
+ENE_DRAM_RGB_AIO
+ENE_EHD_M2_HAL
+ENE_External_Device_HAL
+ENE_MousePad_HAL
+ENE_X_AIC_HAL
+Epic Games Launcher
+Epic Games Launcher Prerequisites (x64)
+FACEIT
+FACEIT Anti-Cheat
+Geometry Dash
+Git
+Google Chrome
+Grand Theft Auto V Legacy
+GService
+Hiddify
+HitVPN
+ImgBurn
+iTop VPN
+Java 8 Update 461 (64-bit)
+Java Auto Updater
+Launcher Prerequisites (x64)
+Logi Options+
+Logi Plugin Service
+Logitech G HUB
+MetaTrader 5
+Microsoft .NET 6.0 Templates 6.0.425 (x64)
+Microsoft .NET AppHost Pack - 6.0.33 (x64)
+Microsoft .NET AppHost Pack - 6.0.33 (x64_arm)
+Microsoft .NET AppHost Pack - 6.0.33 (x64_arm64)
+Microsoft .NET AppHost Pack - 6.0.33 (x64_x86)
+Microsoft .NET Host - 10.0.10 (x64)
+Microsoft .NET Host - 6.0.36 (x64)
+Microsoft .NET Host - 8.0.24 (x64)
+Microsoft .NET Host - 9.0.9 (x64)
+Microsoft .NET Host FX Resolver - 10.0.10 (x64)
+Microsoft .NET Host FX Resolver - 6.0.33 (x64)
+Microsoft .NET Host FX Resolver - 6.0.36 (x64)
+Microsoft .NET Host FX Resolver - 8.0.24 (x64)
+Microsoft .NET Host FX Resolver - 9.0.9 (x64)
+Microsoft .NET Runtime - 10.0.10 (x64)
+Microsoft .NET Runtime - 6.0.33 (x64)
+Microsoft .NET Runtime - 6.0.36 (x64)
+Microsoft .NET Runtime - 8.0.24 (x64)
+Microsoft .NET Runtime - 9.0.9 (x64)
+Microsoft .NET SDK 6.0.425 (x64)
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+Microsoft .NET Targeting Pack - 6.0.33 (x64)
+Microsoft .NET Toolset 6.0.425 (x64)
+Microsoft ASP.NET Core 6.0.33 - Shared Framework (x64)
+Microsoft ASP.NET Core 6.0.33 Shared Framework (x64)
+Microsoft ASP.NET Core 6.0.33 Targeting Pack (x64)
+Microsoft Edge
+Microsoft Office профессиональный 2019 - ru-ru
+Microsoft OneDrive
+Microsoft Teams Meeting Add-in for Microsoft Office
+Microsoft Update Health Tools
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Visual C++ 2005 Redistributable (x64)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.50.35719
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.50.35719
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.50.35719
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.50.35719
+Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719
+Microsoft Visual C++ v14 Redistributable (x86) - 14.50.35719
+Microsoft Visual Studio Code (User)
+Microsoft Windows Desktop Runtime - 10.0.10 (x64)
+Microsoft Windows Desktop Runtime - 6.0.33 (x64)
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)
+Microsoft Windows Desktop Runtime - 8.0.24 (x64)
+Microsoft Windows Desktop Runtime - 9.0.9 (x64)
+Microsoft Windows Desktop Runtime 10.0.10 (x64)
+Microsoft Windows Desktop Targeting Pack - 6.0.33 (x64)
+Microsoft Word 2024 - en-us
+Microsoft.NET.Sdk.Android.Manifest-6.0.300
+Microsoft.NET.Sdk.iOS.Manifest-6.0.300
+Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.300
+Microsoft.NET.Sdk.macOS.Manifest-6.0.300
+Microsoft.NET.Sdk.Maui.Manifest-6.0.300
+Microsoft.NET.Sdk.tvOS.Manifest-6.0.300
+Microsoft.NET.Workload.Emscripten.Manifest (x64)
+Microsoft.NET.Workload.Mono.Toolchain.Manifest
+MSYS2
+Node.js
+NVIDIA Backend
+NVIDIA Container
+NVIDIA FrameView SDK 1.3.8513.32290073
+NVIDIA GeForce Experience 3.28.0.417
+NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)
+NVIDIA Install Application
+NVIDIA LocalSystem Container
+NVIDIA Message Bus for NvContainer
+NVIDIA NetworkService Container
+NVIDIA NodeJS
+NVIDIA NVAPI Monitor plugin for NvContainer
+NVIDIA NvModuleTracker
+NVIDIA Optimus Update 39.5.0.0
+NVIDIA Session Container
+NVIDIA ShadowPlay 3.28.0.417
+Nvidia Share
+NVIDIA SHIELD Streaming
+NVIDIA Telemetry Client
+NVIDIA TelemetryApi helper for NvContainer
+NVIDIA Update Core
+NVIDIA User Container
+NVIDIA Virtual Audio 4.65.0.3
+NVIDIA Virtual Host Controller
+NVIDIA Watchdog Plugin for NvContainer
+NVIDIA Графический драйвер 560.94
+OBS Studio
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Extensibility Component 64-bit Registration
+Office 16 Click-to-Run Localization Component
+Ollama version 0.40.17
+OpenCode 1.18.34
+OpenIV
+Overwolf
+Patriot Viper M2 SSD RGB
+PlanetVPN-2.10.22.62
+PostgreSQL 18
+PyCharm 2025.2.1.1
+Python 3.13.12 (64-bit)
+Python 3.13.12 Add to Path (64-bit)
+Python 3.13.12 Core Interpreter (64-bit)
+Python 3.13.12 Development Libraries (64-bit)
+Python 3.13.12 Documentation (64-bit)
+Python 3.13.12 Executables (64-bit)
+Python 3.13.12 pip Bootstrap (64-bit)
+Python 3.13.12 Standard Library (64-bit)
+Python 3.13.12 Tcl/Tk Support (64-bit)
+Python 3.13.12 Test Suite (64-bit)
+Python 3.14.7
+Python Launcher
+RGB Fusion
+Roblox Player
+Roblox Player for bassk
+Roblox Studio for bassk
+SIV
+Smart Backup (x64)
+Steam
+TeamSpeak 3 Client
+TeamSpeak Overlay
+Telegram Desktop
+Update for x64-based Windows Systems (KB5001716)
+Verbatim_SureFireGaming_Product
+Vitrite (remove only)
+VMware Player
+VMware VIX
+Volt
+Wave 0.5.9
+WD P40 Game Drive
+WinRAR 7.01 (64-bit)
+Yandex (All Users)
+Zoom Workplace
+Обновления NVIDIA 39.5.0.0
+Поддержка программ Apple (32 бит)
+Поддержка программ Apple (64 бит)
+Скачать видео и аудио
+Среда выполнения Microsoft Edge WebView2 Runtime
+
+Базовое ПО
+Офисный пакет: найдено — Microsoft Office профессиональный 2019 - ru-ru, Microsoft Word 2024 - en-us
+Браузер: найдено — Google Chrome, Microsoft Edge
+  Edge может быть компонентом Windows. Настройки браузера не проверяются.
+Чтение PDF: не найдено. Для отдельной программы чтения PDF подойдут SumatraPDF или Foxit PDF Reader.
+Архиватор: найдено — WinRAR 7.01 (64-bit)
+Антивирус: не найдено. Проверьте, включён ли Microsoft Defender, или уточните, какой антивирус принят в организации.
+--------------------------------------------------
+Программы для проверки
+Игры и игровые платформы:
+  Проверить: Counter-Strike
+  Проверить: Counter-Strike: Source
+  Проверить: Counter-Strike:Global Offensive
+  Проверить: Epic Games Launcher
+  Проверить: Epic Games Launcher Prerequisites (x64)
+  Проверить: Roblox Player
+  Проверить: Roblox Player for bassk
+  Проверить: Roblox Studio for bassk
+  Проверить: Steam
+  Проверить: WD P40 Game Drive
+Торрент-клиенты:
+  Совпадений нет.
+Мессенджеры:
+  Проверить: Discord
+  Проверить: Telegram Desktop
+Развлечения и оформление:
+  Проверить: OBS Studio
+Уточните назначение этих программ перед принятием решения об удалении.
+Проверено категорий базового ПО: 5. Рекомендаций: 15.
+
+Отчёт сохранён
+Путь к отчёту: C:\Users\bassk\Downloads\pc_report.txt
